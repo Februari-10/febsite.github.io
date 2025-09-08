@@ -14,3 +14,18 @@ div.logo {
     scale:  2;
 
 }
+.content-box {
+    background-color: #222244;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    margin: 40px auto;
+    padding: 40px;
+    max-width: 900px;
+}
+.seth-box {
+    display: inline-block;
+    padding: 4px;
+    border: 4px solid orange;
+    border-radius: 16px;
+    background: orange;
+}
